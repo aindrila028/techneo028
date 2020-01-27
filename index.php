@@ -80,7 +80,7 @@ body {
 </div>
 <br/>
 <div class="logopic">
-  <img src="PuppyPaws_logo.png" alt="Trulli" width="800" height="280">
+  <img src="PuppyPaws_logo.png" alt="Trulli" width="800" height="340">
 </div>
 <br/>
 <h2 text-align="center"> Register now </h2>
